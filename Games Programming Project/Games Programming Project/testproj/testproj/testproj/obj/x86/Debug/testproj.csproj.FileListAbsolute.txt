@@ -1,0 +1,7 @@
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\bin\x86\Debug\Content\tile1.xnb
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\bin\x86\Debug\testproj.exe
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\bin\x86\Debug\testproj.pdb
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\obj\x86\Debug\testproj.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\obj\x86\Debug\testproj.exe
+C:\Users\Sam\Desktop\Games Programming Project\testproj\testproj\testproj\obj\x86\Debug\testproj.pdb

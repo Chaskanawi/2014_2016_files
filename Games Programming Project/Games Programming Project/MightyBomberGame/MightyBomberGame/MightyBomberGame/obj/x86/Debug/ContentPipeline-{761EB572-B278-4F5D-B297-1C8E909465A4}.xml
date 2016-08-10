@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2015-04-09T01:45:32.0482941+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fade.png</Source>
+      <Name>Fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Fade.xnb</Output>
+      <Time>2015-04-07T21:10:27.3806657+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreen\Splash2.png</Source>
+      <Name>SplashScreen\Splash2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SplashScreen\Splash2.xnb</Output>
+      <Time>2015-04-09T00:46:07.7556525+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreen\Splash1.png</Source>
+      <Name>SplashScreen\Splash1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SplashScreen\Splash1.xnb</Output>
+      <Time>2015-04-09T00:46:07.7506522+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\MenuFont.xnb</Output>
+      <Time>2015-04-09T01:51:56.5812881+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\StartMenu.png</Source>
+      <Name>MainMenu\StartMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\MainMenu\StartMenu.xnb</Output>
+      <Time>2015-04-09T01:22:05.9100919+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SetupScrn\SetupScreen.png</Source>
+      <Name>SetupScrn\SetupScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SetupScrn\SetupScreen.xnb</Output>
+      <Time>2015-04-10T22:39:55.6085353+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SetupScrn\menu1.spritefont</Source>
+      <Name>SetupScrn\menu1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SetupScrn\menu1.xnb</Output>
+      <Time>2015-04-11T17:32:23.9725172+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SetupScrn\menu3.spritefont</Source>
+      <Name>SetupScrn\menu3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SetupScrn\menu3.xnb</Output>
+      <Time>2015-04-11T17:32:18.5315095+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SetupScrn\menu4.spritefont</Source>
+      <Name>SetupScrn\menu4</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SetupScrn\menu4.xnb</Output>
+      <Time>2015-04-11T17:32:13.7305027+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SetupScrn\menu5.spritefont</Source>
+      <Name>SetupScrn\menu5</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SetupScrn\menu5.xnb</Output>
+      <Time>2015-04-11T17:32:05.9894918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\floor.png</Source>
+      <Name>Gameplay\floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\floor.xnb</Output>
+      <Time>2015-04-15T23:40:14.1110163+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\tile1.png</Source>
+      <Name>Gameplay\tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\tile1.xnb</Output>
+      <Time>2015-04-16T17:19:49.4081449+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\tile2.png</Source>
+      <Name>Gameplay\tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\tile2.xnb</Output>
+      <Time>2015-04-16T16:55:11.4566109+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\tile3.png</Source>
+      <Name>Gameplay\tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\tile3.xnb</Output>
+      <Time>2015-04-16T17:18:06.9762861+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\tile4.png</Source>
+      <Name>Gameplay\tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\tile4.xnb</Output>
+      <Time>2015-04-16T17:27:23.1430971+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\tile5.png</Source>
+      <Name>Gameplay\tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\tile5.xnb</Output>
+      <Time>2015-04-17T01:15:15.7478017+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Gameplay\ScoreFont.spritefont</Source>
+      <Name>Gameplay\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Gameplay\ScoreFont.xnb</Output>
+      <Time>2015-04-17T04:16:39.0375247+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTextures\RightWalking.png</Source>
+      <Name>PlayerTextures\RightWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\PlayerTextures\RightWalking.xnb</Output>
+      <Time>2015-04-22T11:01:17.928854+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTextures\LeftWalking.png</Source>
+      <Name>PlayerTextures\LeftWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\PlayerTextures\LeftWalking.xnb</Output>
+      <Time>2015-04-22T11:01:17.3098186+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTextures\DownWalking.png</Source>
+      <Name>PlayerTextures\DownWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\PlayerTextures\DownWalking.xnb</Output>
+      <Time>2015-04-22T11:01:13.4745992+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTextures\UpWalking.png</Source>
+      <Name>PlayerTextures\UpWalking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\PlayerTextures\UpWalking.xnb</Output>
+      <Time>2015-04-22T11:01:18.6178934+01:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerTextures\Idle.png</Source>
+      <Name>PlayerTextures\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\PlayerTextures\Idle.xnb</Output>
+      <Time>2015-04-22T11:01:15.8937376+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\menu2.spritefont</Source>
+      <Name>MainMenu\menu2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\MainMenu\menu2.xnb</Output>
+      <Time>2015-04-11T17:32:21.1925133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SetupScrn\menu2.spritefont</Source>
+      <Name>SetupScrn\menu2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\SetupScrn\menu2.xnb</Output>
+      <Time>2015-04-22T11:04:02.2852546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bombs\Bomb1.png</Source>
+      <Name>Bombs\Bomb1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Bombs\Bomb1.xnb</Output>
+      <Time>2015-04-22T11:08:38.3490446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bombs\explosion.png</Source>
+      <Name>Bombs\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Bombs\explosion.xnb</Output>
+      <Time>2015-04-22T11:08:38.3530448+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{761EB572-B278-4F5D-B297-1C8E909465A4}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-04T12:25:39.6247333+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

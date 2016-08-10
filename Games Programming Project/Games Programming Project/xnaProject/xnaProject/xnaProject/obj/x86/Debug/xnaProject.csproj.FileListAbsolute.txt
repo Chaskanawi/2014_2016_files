@@ -1,0 +1,10 @@
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\bin\x86\Debug\xnaProject.exe
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\bin\x86\Debug\xnaProject.pdb
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\obj\x86\Debug\xnaProject.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\obj\x86\Debug\xnaProject.exe
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\obj\x86\Debug\xnaProject.pdb
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\bin\x86\Debug\Content\AnimationFont.xnb
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\bin\x86\Debug\Content\Fade.xnb
+C:\Users\Sam\Desktop\Games Programming Project\xnaProject\xnaProject\xnaProject\bin\x86\Debug\Load\Splash.sc

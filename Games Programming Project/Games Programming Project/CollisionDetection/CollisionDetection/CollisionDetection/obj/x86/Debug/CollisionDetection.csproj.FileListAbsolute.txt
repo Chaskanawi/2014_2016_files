@@ -1,0 +1,6 @@
+C:\Users\Sam\Desktop\Games Programming Project\CollisionDetection\CollisionDetection\CollisionDetection\bin\x86\Debug\CollisionDetection.exe
+C:\Users\Sam\Desktop\Games Programming Project\CollisionDetection\CollisionDetection\CollisionDetection\bin\x86\Debug\CollisionDetection.pdb
+C:\Users\Sam\Desktop\Games Programming Project\CollisionDetection\CollisionDetection\CollisionDetection\obj\x86\Debug\CollisionDetection.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Games Programming Project\CollisionDetection\CollisionDetection\CollisionDetection\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sam\Desktop\Games Programming Project\CollisionDetection\CollisionDetection\CollisionDetection\obj\x86\Debug\CollisionDetection.exe
+C:\Users\Sam\Desktop\Games Programming Project\CollisionDetection\CollisionDetection\CollisionDetection\obj\x86\Debug\CollisionDetection.pdb

@@ -1,0 +1,8 @@
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\MightyBomberGame.exe
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\MightyBomberGame.pdb
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\obj\x86\Debug\MightyBomberGame.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\obj\x86\Debug\MightyBomberGame.exe
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\obj\x86\Debug\MightyBomberGame.pdb
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Font1.xnb
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomberGame\MightyBomberGame\MightyBomberGame\bin\x86\Debug\Content\Fade.xnb

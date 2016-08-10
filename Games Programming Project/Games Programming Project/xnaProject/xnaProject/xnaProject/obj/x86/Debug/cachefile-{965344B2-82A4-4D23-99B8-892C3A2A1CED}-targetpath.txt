@@ -1,0 +1,3 @@
+Content\Font1.xnb
+Content\AnimationFont.xnb
+Content\Fade.xnb

@@ -1,0 +1,7 @@
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\bin\x86\Debug\MightyBomber.exe
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\bin\x86\Debug\MightyBomber.pdb
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\obj\x86\Debug\MightyBomber.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\obj\x86\Debug\MightyBomber.exe
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\obj\x86\Debug\MightyBomber.pdb
+C:\Users\Sam\Desktop\Games Programming Project\MightyBomber\MightyBomber\MightyBomber\bin\x86\Debug\Content\MightyBomber.xnb

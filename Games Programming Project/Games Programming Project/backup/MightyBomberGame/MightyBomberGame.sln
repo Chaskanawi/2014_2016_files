@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyBomberGame", "MightyBomberGame\MightyBomberGame\MightyBomberGame.csproj", "{480809D0-A8ED-42FA-B405-A54323E7D5B4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MightyBomberGameContent", "MightyBomberGame\MightyBomberGameContent\MightyBomberGameContent.contentproj", "{761EB572-B278-4F5D-B297-1C8E909465A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480809D0-A8ED-42FA-B405-A54323E7D5B4}.Debug|x86.ActiveCfg = Debug|x86
+		{480809D0-A8ED-42FA-B405-A54323E7D5B4}.Debug|x86.Build.0 = Debug|x86
+		{480809D0-A8ED-42FA-B405-A54323E7D5B4}.Release|x86.ActiveCfg = Release|x86
+		{480809D0-A8ED-42FA-B405-A54323E7D5B4}.Release|x86.Build.0 = Release|x86
+		{761EB572-B278-4F5D-B297-1C8E909465A4}.Debug|x86.ActiveCfg = Debug|x86
+		{761EB572-B278-4F5D-B297-1C8E909465A4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
