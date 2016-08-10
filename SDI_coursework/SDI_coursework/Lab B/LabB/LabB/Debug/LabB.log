@@ -1,0 +1,39 @@
+﻿Build started 10/08/2016 13:39:11.
+     1>Project "C:\Users\Sam\Downloads\SDI_coursework\SDI_coursework\Lab B\LabB\LabB\LabB.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mainLabB.cpp
+         mainLabB.cpp
+     1>c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\linkedlistclass.cpp(45): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+                 c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\linkedlistclass.cpp(41) : while compiling class template member function 'void SDI::LinkedList<int>::insertHead(T)'
+                 with
+                 [
+                     T=int
+                 ]
+                 c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\mainlabb.cpp(48) : see reference to function template instantiation 'void SDI::LinkedList<int>::insertHead(T)' being compiled
+                 with
+                 [
+                     T=int
+                 ]
+                 c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\mainlabb.cpp(10) : see reference to class template instantiation 'SDI::LinkedList<int>' being compiled
+     1>c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\linkedlistclass.cpp(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\linkedlistclass.cpp(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+                 c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\linkedlistclass.cpp(61) : while compiling class template member function 'void SDI::LinkedList<int>::insertTail(T)'
+                 with
+                 [
+                     T=int
+                 ]
+                 c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\mainlabb.cpp(54) : see reference to function template instantiation 'void SDI::LinkedList<int>::insertTail(T)' being compiled
+                 with
+                 [
+                     T=int
+                 ]
+     1>c:\users\sam\downloads\sdi_coursework\sdi_coursework\lab b\labb\labb\linkedlistclass.cpp(78): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sam\Downloads\SDI_coursework\SDI_coursework\Lab B\LabB\Debug\LabB.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sam\Downloads\SDI_coursework\SDI_coursework\Lab B\LabB\Debug\LabB.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sam\Downloads\SDI_coursework\SDI_coursework\Lab B\LabB\Debug\LabB.lib" /MACHINE:X86 Debug\linkedListClass.obj
+         Debug\mainLabB.obj
+         LabB.vcxproj -> C:\Users\Sam\Downloads\SDI_coursework\SDI_coursework\Lab B\LabB\Debug\LabB.exe
+     1>Done Building Project "C:\Users\Sam\Downloads\SDI_coursework\SDI_coursework\Lab B\LabB\LabB\LabB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
