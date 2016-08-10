@@ -1,0 +1,146 @@
+//Stack
+
+
+ifndef SDI_Samstack_H
+define SDI_Samstack_H
+
+
+namespace SDI_REVIEW
+
+{
+
+	typedef int StoredData;
+
+	class Samstack
+	private:
+	// add data members here
+	int size;
+	StoredData * theStack;
+	//operations
+	int create_stack;
+	int remove;
+	int add;
+	
+	public:
+		Samstack();
+		~Samstack();
+		// in add to stack remove element from stack in a LIFO fashion (push and pop)
+		void addToStack(StoredData stack_data);
+		StoredData removeFromStack();
+}
+#endif
+
+
+
+
+
+
+———————————————————————————————————————————————————————
+
+//queue
+
+ifndef SDI_SamQueue_H
+define SDI_SamQueue_H
+
+
+namespace SDI_REVIEW
+
+{
+
+	typedef int StoredData;
+
+	class Samqueue
+	private:
+	// add data members here
+	int size;
+	StoredData * theQueue;
+	//operations
+	int create_Queue;
+	int remove;
+	int add;
+	
+	public:
+		Samqueue();
+		~Sam queue();
+		// in add to queue remove element from the queue in a FIFO fashion (push and pop)
+		void addToQueue(StoredData queue_data);
+		StoredData removeFromqueue();
+}
+#endif
+
+———————————————————————————————————————————————————————
+
+// High Score Table
+
+ifndef HST_SamTable_H
+define HST_SamTable_H
+#include <string>
+
+namespace HST;
+{
+class hst
+	private:
+		int hst[10];
+		~hst();
+		int sort;
+
+	public:
+		string Name;
+		int score;
+		addScore;
+		addName;
+ 
+}
+
+
+# endif
+
+
+———————————————————————————————————————————————————————
+
+
+//Priority queue
+
+ifndef SDI_SamPriorityQueue_H
+define SDI_SamPriorityQueue_H
+
+
+namespace SDI_REVIEW
+
+{
+
+	typedef int StoredData;
+
+	class Sampriorityqueue
+	private:
+	// add data members here
+	int size;
+	StoredData * thePriorityQueue;
+	//operations
+	int create_Priority_Queue;
+	int remove;
+	int add;
+	
+	public:
+		Sampriorityqueue();
+		~Sampriorityqueue();
+		void addToPriorityQueue(StoredData queue_data);
+		StoredData removeFromPriorityqueue();
+}
+#endif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
